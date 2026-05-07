@@ -13,6 +13,7 @@ Recent work spans Next.js, TypeScript, React Native, Expo, Supabase, AI workflow
 
 ## Public Work
 
+- [Radium AI Dashboard](https://github.com/kurosh87/radium-ai-dashboard) - Portfolio dashboard concept for AI model deployments, analytics, evaluations, and model operations.
 - [Nativewind Clerk Expo Quickstart](https://github.com/kurosh87/nativewind-clerk-expo-quickstart) - Expo Router starter with NativeWind UI, Clerk auth, Supabase storage, and an AI chat tab.
 - [RadiumBuild](https://github.com/kurosh87/radiumbuild-nextjs) - Next.js product platform with auth, database integration, shadcn UI, and developer documentation.
 - [Custom Quant Dashboard](https://github.com/kurosh87/custom-quant-dashboard) - Next.js dashboard for TradingView signal ingestion, Supabase storage, and market analytics.
