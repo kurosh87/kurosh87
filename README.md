@@ -15,6 +15,7 @@ Recent work spans Next.js, TypeScript, React Native, Expo, Supabase, AI workflow
 
 - [Reala Portfolio](https://github.com/kurosh87/reala-portfolio) - Real-estate product suite showing marketing, AI intake, brokerage operations, and case-study documentation.
 - [Aerobase Public Demo](https://github.com/kurosh87/aerobase-public-demo) - Public-safe travel platform demo for search, awards, jetlag scoring, recovery plans, and iOS/web surfaces.
+- [Aerobase Concierge VPS Demo](https://github.com/kurosh87/aerobase-concierge-vps-demo) - Public-safe infrastructure demo for provisioning isolated travel-agent runtimes with dry-run VPS, DNS, cloud-init, and runtime event flows.
 - [Radium AI Dashboard](https://github.com/kurosh87/radium-ai-dashboard) - Portfolio dashboard concept for AI model deployments, analytics, evaluations, and model operations.
 - [Nativewind Clerk Expo Quickstart](https://github.com/kurosh87/nativewind-clerk-expo-quickstart) - Expo Router starter with NativeWind UI, Clerk auth, Supabase storage, and an AI chat tab.
 
